@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Quiz-for-Perspektiva24/static/css/main.d1e47a25.chunk.css",
+    "main.js": "/Quiz-for-Perspektiva24/static/js/main.0a4649f1.chunk.js",
+    "main.js.map": "/Quiz-for-Perspektiva24/static/js/main.0a4649f1.chunk.js.map",
+    "runtime-main.js": "/Quiz-for-Perspektiva24/static/js/runtime-main.1f74b4cb.js",
+    "runtime-main.js.map": "/Quiz-for-Perspektiva24/static/js/runtime-main.1f74b4cb.js.map",
+    "static/css/2.d2810a69.chunk.css": "/Quiz-for-Perspektiva24/static/css/2.d2810a69.chunk.css",
+    "static/js/2.1b6e1ee7.chunk.js": "/Quiz-for-Perspektiva24/static/js/2.1b6e1ee7.chunk.js",
+    "static/js/2.1b6e1ee7.chunk.js.map": "/Quiz-for-Perspektiva24/static/js/2.1b6e1ee7.chunk.js.map",
+    "index.html": "/Quiz-for-Perspektiva24/index.html",
+    "static/css/2.d2810a69.chunk.css.map": "/Quiz-for-Perspektiva24/static/css/2.d2810a69.chunk.css.map",
+    "static/css/main.d1e47a25.chunk.css.map": "/Quiz-for-Perspektiva24/static/css/main.d1e47a25.chunk.css.map",
+    "static/js/2.1b6e1ee7.chunk.js.LICENSE.txt": "/Quiz-for-Perspektiva24/static/js/2.1b6e1ee7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Quiz-for-Perspektiva24/static/media/BackGroundImageQuiz.817a7457.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f74b4cb.js",
+    "static/css/2.d2810a69.chunk.css",
+    "static/js/2.1b6e1ee7.chunk.js",
+    "static/css/main.d1e47a25.chunk.css",
+    "static/js/main.0a4649f1.chunk.js"
+  ]
+}
